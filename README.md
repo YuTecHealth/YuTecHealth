@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/YuTecHealth/YuTecHealth/master/Asset/Yutech_Logo.svg" align="right"
-     alt="Yutech logo by CHIEH TSOU" width="" height="">
+     alt="Yutech logo by CHIEH TSOU" width="" height="100">
 
 ### Hi there, We are [Yutech - Your Health Technology !](https://www.yutechealth.com/index_en.html) 👋
 **Yutech** was founded in 2019, originated from the **Communication and Biologic Integrated Circuit Lab (CBIC)**. 
@@ -31,9 +31,16 @@ Our goal is to improve the quality of human health. Therefore, **Yutech** has la
 * **OEM**
      * Elements Buying Issue
      * PCB Issue
-### Contact Info.
+### Other Information
+* <img height="30" src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/youtube-play.png"> [YuTech YouTube Channel](https://www.youtube.com/channel/UCDUCtLte-d7foSL4wNmjoEg)
+
+* **Contact Info.**
+
 <img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/yutechinfo.png" align="middle"
-     alt="Contact us by: service@yutechealth.com" width="" height="">
+     alt="Contact us by: service@yutechealth.com" width="" height="150">
+
+
+
 
 
 
