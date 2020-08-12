@@ -19,6 +19,14 @@ Our goal is to improve the quality of human health. Therefore, **Yutech** has la
      * Single Lead ECG with Breath Detection Version
      * Three Lead ECG with Breath Detection Version
 * **[Trianswer](https://www.yutechealth.com/trianswer_en.html) - Biomedical Development Platform for Wearable Device**
+### Other Service We Provide
+* **ODM**
+     * Hardware Design - Select elements to PCB Layout
+     * Firmware Design - Microprocessor relative
+     * Application Design - Function of GUI with Prototype in Mobile Phone & PC* 
+     * IOT System Integration - Include above all
+     * AI
+* **OEM**
 
 
 
