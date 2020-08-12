@@ -31,8 +31,8 @@ Our goal is to improve the quality of human health. Therefore, **Yutech** has la
      alt="Yutech Ability: AI, Healthcare, and IOT." width="" height="">
 ### Partner
 ### Contact Info.
-<img src="https://raw.githubusercontent.com/YuTecHealth/YuTecHealth/master/Asset/core%20skill.svg" align=""
-     alt="Yutech Ability: AI, Healthcare, and IOT." width="" height="">
+<img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/yutechinfo.png" align=""
+     alt="Contact us by: service@yutechealth.com" width="" height="">
 
 
 
