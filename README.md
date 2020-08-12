@@ -31,6 +31,10 @@ Our goal is to improve the quality of human health. Therefore, **Yutech** has la
 * **OEM**
      * Elements Buying Issue
      * PCB Issue
+### Partner
+<code><img height="50" src="https://raw.githubusercontent.com/YuTecHealth/YuTecHealth/master/Asset/adi.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/YuTecHealth/YuTecHealth/master/Asset/anstek.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/YuTecHealth/YuTecHealth/master/Asset/iStuNet.svg"></code>
 ### Other Information
 * <img height="30" src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/youtube-play.png"> [YuTech YouTube Channel](https://www.youtube.com/channel/UCDUCtLte-d7foSL4wNmjoEg)
 
