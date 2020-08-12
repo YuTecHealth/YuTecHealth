@@ -16,7 +16,8 @@ Our goal is to improve the quality of human health. Therefore, **Yutech** has la
 * **[YuGuard](https://www.yutechealth.com/yuguard_en.html) - Single Lead ECG Recoder**
 * **YuBelt - Suitable Belt with ECG Monitoring Function**
 * **YuCloth - Suitable and Washable Cloth with Breath & ECG Monitoring Function**
-     * **Single Lead & Three Lead Version**
+     * Single Lead ECG with Breath Detection Version
+     * Three Lead ECG with Breath Detection Version
 * **[Trianswer](https://www.yutechealth.com/trianswer_en.html) - Biomedical Development Platform for Wearable Device**
 
 
