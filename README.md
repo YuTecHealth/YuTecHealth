@@ -27,8 +27,10 @@ Our goal is to improve the quality of human health. Therefore, **Yutech** has la
      * Firmware Design - Microprocessor relative
      * Application Design - Function of GUI with Prototype in Mobile Phone & PC* 
      * IOT System Integration - Include above all
-     * AI
+     * Algorithm Design - AI, Rule-based 
 * **OEM**
+     * Elements Buying Issue
+     * PCB Issue
 ### Contact Info.
 <img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/yutechinfo.png" align="middle"
      alt="Contact us by: service@yutechealth.com" width="" height="">
