@@ -27,11 +27,11 @@ Our goal is to improve the quality of human health. Therefore, **Yutech** has la
      * IOT System Integration - Include above all
      * AI
 * **OEM**
-<img src="https://raw.githubusercontent.com/YuTecHealth/YuTecHealth/master/Asset/core%20skill.svg" align=""
+
+<img src="https://raw.githubusercontent.com/YuTecHealth/YuTecHealth/master/Asset/core%20skill.svg" align="middle"
      alt="Yutech Ability: AI, Healthcare, and IOT." width="" height="">
-### Partner
 ### Contact Info.
-<img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/yutechinfo.png" align=""
+<img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/yutechinfo.png" align="middle"
      alt="Contact us by: service@yutechealth.com" width="" height="">
 
 
