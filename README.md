@@ -12,7 +12,7 @@ We dedicated to the development of :
 * **Application on Mobile Phones**
 * **Cloud Server**
 ### Goal of Yutech
-Our goal is to improve the quality of human health. Therefore, **Yutech** has launched the _**"Personal Guardian"**_ series of products. By the devices we designed, the core goal of **Yutech** will be gradually promoted through medical technology to daily wearable monitoring and popularized to the education promotion market, from specific fields Popularize to the general public to enhance social welfare.
+Our goal is to improve the quality of human health. Therefore, **Yutech** has launched the _**"Personal Guardian"**_ series of products. By the devices we designed, the core goal of **Yutech** will be gradually promoted through medical technology to daily wearable monitoring and even to the education usage, from specific to the public fields to enhance social welfare.
 
 
 
