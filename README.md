@@ -30,7 +30,7 @@ Our goal is to improve the quality of human health. Therefore, **Yutech** has la
      * IOT System Integration - Include above all
      * Algorithm Design - AI, Rule-based 
 * **OEM**
-     * Elements Buying Issue
+     * Elements Purchasing Issue
      * PCB Issue
 ### Partner
 <code><a href="https://www.analog.com/en/index.html"><img height="50" src="https://raw.githubusercontent.com/YuTecHealth/YuTecHealth/master/Asset/adi.svg"></a></code>
