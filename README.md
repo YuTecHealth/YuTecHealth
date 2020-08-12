@@ -3,7 +3,7 @@
 <!--![image](https://raw.githubusercontent.com/YuTecHealth/YuTecHealth/master/Asset/Yutech_Logo.svg)-->
 
 ### Hi there, We are [Yutech - Your Health Technology !](https://www.yutechealth.com/index_en.html) 👋
-Yutech was founded in 2019, originated from the NCKU CBIC Laboratory. 
+Yutech was founded in 2019, originated from the NCKU Communication and Biointegrated Circuit Design Lab. 
 We dedicated to the development of : 
 * Biomedical System Chips 
 * Biomedical Wearable Devices 
