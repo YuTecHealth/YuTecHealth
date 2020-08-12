@@ -3,7 +3,13 @@
 <!--![image](https://raw.githubusercontent.com/YuTecHealth/YuTecHealth/master/Asset/Yutech_Logo.svg)-->
 
 ### Hi there, We are [Yutech - Your Health Technology !](https://www.yutechealth.com/index_en.html) 👋
-Yutech was founded in 2019, originated from the NCKU CBIC Laboratory. We dedicated to the development of biomedical system chips, biomedical wearable devices and mobile phones, and cloud platforms. The core goal is to improve the quality of human health. Therefore, Yujing Medical Technology has launched the "Personal Guardian" series of products. The goal of improving the quality of human health will be gradually promoted through medical technology to daily wearable monitoring and popularized to the education promotion market, from specific fields Popularize to the general public to enhance social welfare.
+Yutech was founded in 2019, originated from the NCKU CBIC Laboratory. 
+We dedicated to the development of : 
+* Biomedical System Chips 
+* Biomedical Wearable Devices 
+* Application on Mobile Phones
+* Cloud Server. 
+The core goal is to improve the quality of human health. Therefore, Yujing Medical Technology has launched the "Personal Guardian" series of products. The goal of improving the quality of human health will be gradually promoted through medical technology to daily wearable monitoring and popularized to the education promotion market, from specific fields Popularize to the general public to enhance social welfare.
 
 
 
