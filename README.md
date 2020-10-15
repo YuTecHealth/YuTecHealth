@@ -35,10 +35,10 @@ Our goal is to improve the quality of human health. Therefore, **Yutech** has la
      * Elements Purchasing Issue
      * PCB Issue
 ### Partner
+<code><a href="https://www.arm.com/"><img height="50" src="https://raw.githubusercontent.com/YuTecHealth/YuTecHealth/master/Asset/Arm-logo.svg"></a></code>
 <code><a href="https://www.analog.com/en/index.html"><img height="50" src="https://raw.githubusercontent.com/YuTecHealth/YuTecHealth/master/Asset/adi.svg"></a></code>
 <code><a href="http://www.anstek.com.tw/index_e.aspx"><img height="50" src="https://raw.githubusercontent.com/YuTecHealth/YuTecHealth/master/Asset/anstek.svg"></a></code>
 <code><a href="http://www.istunet.com/"><img height="50" src="https://raw.githubusercontent.com/YuTecHealth/YuTecHealth/master/Asset/iStuNet.svg"></a></code>
-<code><a href="http://www.e-elements.com/english/"><img height="50" src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/e-element.png"></a></code>
 ### Other Information
 * <code><a href="https://www.youtube.com/channel/UCDUCtLte-d7foSL4wNmjoEg"><img height="30" src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/youtube-play.png"></a></code> [YuTech YouTube Channel](https://www.youtube.com/channel/UCDUCtLte-d7foSL4wNmjoEg)
 
