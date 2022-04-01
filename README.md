@@ -20,7 +20,7 @@ Our goal is to improve the quality of human health. Therefore, **Yutech** has la
 * **YuCloth - Suitable and Washable Cloth with Breath & ECG Monitoring Function**
      * Single Lead ECG with Breath Detection Version
      * Three Lead ECG with Breath Detection Version
-* **YuPet - Pet Belt with Breath & ECG Monitoring Function**
+* **[YuPet](https://www.youtube.com/watch?v=gsvOatiMNh0) - Pet Belt with Breath & ECG Monitoring Function**
 * **YuBelt - Suitable Belt with ECG Monitoring Function**
 * **[TriAnswer](https://www.yutechealth.com/trianswer_en.html) - Biomedical Development Platform for Wearable Device**
      * How to Develop
