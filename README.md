@@ -15,7 +15,7 @@ Our goal is to improve the quality of human health. Therefore, **Yutech** has la
 ### Product
 * **[YuGuard](https://www.yutechealth.com/yuguard_en.html) - Single Lead ECG Recording Wearable Device**
 * **[YuSound](https://www.yutechealth.com/yusound_en.html) - Opitimized Wireless Heart Sound Recorder**
-* **YuRine - Risky element (UACR and so on) Analyzer in Urine**
+* **[YuRine](https://www.youtube.com/watch?v=L_16MsDDqm8) - Risky element (UACR and so on) Analyzer in Urine**
 
 * **YuCloth - Suitable and Washable Cloth with Breath & ECG Monitoring Function**
      * Single Lead ECG with Breath Detection Version
