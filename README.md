@@ -26,8 +26,8 @@ Our goal is to improve the quality of human health. Therefore, **Yutech** has la
 * **YuBelt - Suitable Belt with ECG Monitoring Function**
 * **[TriAnswer](https://www.yutechealth.com/trianswer_en.html) - Biomedical Development Platform for Wearable Device**
      * How to Develop
-          * [Hardware](https://www.yutechealth.com/trianswer_en.html) - Tri_BLE (main board) and other sensor board (ECG、EMG、PPG、EEG、Breath、Temp) 
-          * [Firmware - Use Arduino IDE to develop Tri_BLE](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino)
+          * [Hardware](https://www.yutechealth.com/trianswer_en.html) - Tri_BLE (three channel main board) and other sensor board (ECG、EMG、PPG、EEG、Breath、Temp) 
+          * [Firmware](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino) - Use Arduino IDE to develop Tri_BLE
           * [Application - PWA](https://github.com/YuTecHealth/PWA)
      * Support [2020 AIOT Competition](http://www.istunet.com/WebPage/istunet_web/aiot4thcontest.html) <code><a href="http://www.istunet.com/WebPage/istunet_web/aiot4thcontest.html"><img align="" alt="AIOT Competition" height="20" src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/aiot_logo.png"></a></code> in Taiwan
      
