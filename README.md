@@ -22,13 +22,11 @@ Our goal is to improve the quality of human health. Therefore, **Yutech** has la
      * Three Lead ECG with Breath Detection Version
 * **YuPet - Pet Belt with Breath & ECG Monitoring Function**
 * **YuBelt - Suitable Belt with ECG Monitoring Function**
-* **[Trianswer](https://www.yutechealth.com/trianswer_en.html) - Biomedical Development Platform for Wearable Device**
+* **[TriAnswer](https://www.yutechealth.com/trianswer_en.html) - Biomedical Development Platform for Wearable Device**
      * How to Develop
           * [Firmware - Use Arduino IDE to develop](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino)
           * [Application - PWA](https://github.com/YuTecHealth/PWA)
      * Support [2020 AIOT Competition](http://www.istunet.com/WebPage/istunet_web/aiot4thcontest.html) <code><a href="http://www.istunet.com/WebPage/istunet_web/aiot4thcontest.html"><img align="" alt="AIOT Competition" height="20" src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/aiot_logo.png"></a></code> in Taiwan
-     * Education station
-          * [Resource](https://github.com/YuTecHealth/Education-Station)
      
 
 ### Other Service We Provide
