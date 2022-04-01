@@ -13,11 +13,15 @@ We dedicated to the development of :
 ### Goal of Yutech
 Our goal is to improve the quality of human health. Therefore, **Yutech** has launched the _**"Personal Guardian"**_ series of products. By the devices we designed, the core goal of **Yutech** will be gradually promoted through medical technology to daily wearable monitoring and even to the education usage, from specific to the public fields to enhance social welfare.
 ### Product
-* **[YuGuard](https://www.yutechealth.com/yuguard_en.html) - Single Lead ECG Recoder**
-* **YuBelt - Suitable Belt with ECG Monitoring Function**
+* **[YuGuard](https://www.yutechealth.com/yuguard_en.html) - Single Lead ECG Recording Wearable Device**
+* **YuSound - Opitimized Wireless Heart Sound Recorder**
+* **YuRine - Risky element (UACR and so on) Analyzer in Urine**
+
 * **YuCloth - Suitable and Washable Cloth with Breath & ECG Monitoring Function**
      * Single Lead ECG with Breath Detection Version
      * Three Lead ECG with Breath Detection Version
+* **YuPet - Suitable Belt with ECG Monitoring Function**
+* **YuBelt - Suitable Belt with ECG Monitoring Function**
 * **[Trianswer](https://www.yutechealth.com/trianswer_en.html) - Biomedical Development Platform for Wearable Device**
      * How to Develop
           * [Firmware - Use Arduino IDE to develop](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino)
