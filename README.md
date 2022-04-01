@@ -1,15 +1,17 @@
-<a href="https://www.yutechealth.com/index_en.html"><img src="https://raw.githubusercontent.com/YuTecHealth/YuTecHealth/master/Asset/Yutech_Logo.svg" align="right"
-     alt="Yutech logo by CHIEH TSOU" width="" height="100"></a>
-
 ### Hi there, We are [Yutech - Your Health Technology !](https://www.yutechealth.com/index_en.html) 👋
 **Yutech** was founded in 2019, originated from the **Communication and Biologic Integrated Circuit Lab (CBIC)**. 
 <br>
 <br>
+
+<a href="https://www.yutechealth.com/index_en.html"><img src="https://raw.githubusercontent.com/YuTecHealth/YuTecHealth/master/Asset/Yutech_Logo.svg" align="right"
+     alt="Yutech logo by CHIEH TSOU" width="" height="120"></a>
 We dedicated to the development of : 
 * **Biomedical System Chips** 
 * **Biomedical Wearable Devices** 
 * **Application on Smart Devices**
 * **Cloud Server**
+
+     
 ### Goal of Yutech
 Our goal is to improve the quality of human health. Therefore, **Yutech** has launched the _**"Personal Guardian"**_ series of products. By the devices we designed, the core goal of **Yutech** will be gradually promoted through medical technology to daily wearable monitoring and even to the education usage, from specific to the public fields to enhance social welfare.
 ### Product
@@ -24,7 +26,7 @@ Our goal is to improve the quality of human health. Therefore, **Yutech** has la
 * **YuBelt - Suitable Belt with ECG Monitoring Function**
 * **[TriAnswer](https://www.yutechealth.com/trianswer_en.html) - Biomedical Development Platform for Wearable Device**
      * How to Develop
-          * [Hardware - Tri_BLE (main board) and other sensor board (ECG、EMG、PPG、EEG、Breath、Temp)](https://www.yutechealth.com/trianswer_en.html) 
+          * [Hardware](https://www.yutechealth.com/trianswer_en.html) - Tri_BLE (main board) and other sensor board (ECG、EMG、PPG、EEG、Breath、Temp) 
           * [Firmware - Use Arduino IDE to develop Tri_BLE](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino)
           * [Application - PWA](https://github.com/YuTecHealth/PWA)
      * Support [2020 AIOT Competition](http://www.istunet.com/WebPage/istunet_web/aiot4thcontest.html) <code><a href="http://www.istunet.com/WebPage/istunet_web/aiot4thcontest.html"><img align="" alt="AIOT Competition" height="20" src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/aiot_logo.png"></a></code> in Taiwan
