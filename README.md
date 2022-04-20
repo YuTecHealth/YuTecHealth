@@ -27,8 +27,8 @@ Our goal is to improve the quality of human health. Therefore, **Yutech** has la
 * **[TriAnswer](https://www.yutechealth.com/trianswer.html) - Biomedical Development Platform for Wearable Device** [(Video)](https://www.youtube.com/watch?v=sQcyQJgb_so)
      * How to Develop
           * [Hardware](https://www.yutechealth.com/trianswer.html) - Three channel main board (Tri_BLE) / Sensor board (ECG、EMG、PPG、EEG、Breath、Temp) 
-          * [Firmware](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino) - Use Arduino IDE to develop Tri_BLE
-          * [Software](https://github.com/YuTecHealth/PWA) - iOS and Android Application for developed Tri_BLE
+          * [Firmware](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino) - Use Arduino IDE to reboot or develop Tri_BLE
+          * [Software](https://github.com/YuTecHealth/PWA) - iOS, Android and PC Application for Tri_BLE
      * Support 
           * [2020 AIOT Competition](http://www.istunet.com/WebPage/istunet_web/aiot4thcontest.html) <code><a href="http://www.istunet.com/WebPage/istunet_web/aiot4thcontest.html"><img align="" alt="AIOT Competition" height="20" src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/AIOT_LOGO/aiot_logo_2020.png"></a></code> in Taiwan   
           * [2021 AIOT Competition](https://system20.webtech.com.tw/web/202100029/index.php?lang=tw)<code><a href="https://system20.webtech.com.tw/web/202100029/index.php?lang=tw"><img align="" alt="AIOT Competition" height="20" src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/AIOT_LOGO/aiot_logo_2021.PNG"></a></code> in Taiwan   
