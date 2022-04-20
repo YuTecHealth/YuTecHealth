@@ -24,7 +24,7 @@ Our goal is to improve the quality of human health. Therefore, **Yutech** has la
      * Three Lead ECG with Breath Detection Version
 * **[YuPet](https://www.youtube.com/watch?v=gsvOatiMNh0) - Pet Belt with Breath & ECG Monitoring Function**
 * **YuBelt - Suitable Belt with ECG Monitoring Function**
-* **[TriAnswer](https://www.yutechealth.com/trianswer.html) - Biomedical Development Platform for Wearable Device**
+* **[TriAnswer](https://www.yutechealth.com/trianswer.html) - Biomedical Development Platform for Wearable Device** [(Video)](https://www.youtube.com/watch?v=sQcyQJgb_so)
      * How to Develop
           * [Hardware](https://www.yutechealth.com/trianswer.html) - Three channel main board (Tri_BLE) / Sensor board (ECG、EMG、PPG、EEG、Breath、Temp) 
           * [Firmware](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino) - Use Arduino IDE to develop Tri_BLE
