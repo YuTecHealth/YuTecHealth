@@ -26,7 +26,7 @@ Our goal is to improve the quality of human health. Therefore, **Yutech** has la
 * **YuBelt - Suitable Belt with ECG Monitoring Function**
 * **[TriAnswer](https://www.yutechealth.com/trianswer.html) - Biomedical Development Platform for Wearable Device** [(Video)](https://www.youtube.com/watch?v=sQcyQJgb_so)
      * How to startup
-          * [Hardware](https://www.yutechealth.com/trianswer.html) - Three channel main board (Tri_BLE) / Sensor board (ECG、EMG、PPG、EEG、Breath、Temp) 
+          * [Hardware](https://www.yutechealth.com/trianswer.html) - Three channel bluetooth main board (Tri_BLE) / biosensor board (ECG、EMG、PPG、EEG、Breath、Temp) 
           * [Firmware](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino) - Use Arduino IDE to develop or restore Tri_BLE
           * [Software](https://github.com/YuTecHealth/Software) - iOS, Android and PC Application for Tri_BLE
      * Support 
